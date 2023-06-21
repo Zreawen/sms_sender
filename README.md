@@ -24,4 +24,4 @@ Turkey (+90)
         pip install -R requirements.txt
         ```
         
-        for this you will nedd python version above 3.7 (best results in 3.9)
+        for this you will need python version above 3.7 (best results in 3.9)
